@@ -1,11 +1,16 @@
 _repo: The-Clevedon-Case_68091
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68091-h/images/cover.jpg
 creator:
   author:
     agent_name: Oakley, Nancy
     gutenberg_agent_id: '54595'
     url: http://www.gutenberg.org/2009/agents/54595
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68091#The-Clevedon-Case
 gutenberg_issued: '2022-05-15'
 identifiers:
   gutenberg: '68091'
